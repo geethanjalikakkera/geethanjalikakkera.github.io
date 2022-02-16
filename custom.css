@@ -1,0 +1,61 @@
+
+header {
+    padding: 156px 0 100px;
+}
+
+    header h1 {
+        text-align: center;
+        color: black;
+    }
+
+section {
+    padding: 150px 10px;
+}
+
+.bsu {
+    width: 120px;
+}
+
+#address-card {
+    color: white;
+    font-size: 30px;
+}
+
+.content {
+    font-size: 22px;
+}
+
+.emailid {
+    color: white;
+    text-align: center;
+}
+
+.resume {
+    color: black;
+    text-align: center;
+    font-size: 35px;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: white;
+}
+
+.bg-primary {
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat, repeat;
+    background-color: #ff0000;
+    height: 780px !important;
+    background-size: cover;
+}
+
+@media only screen and (max-width: 800px) {
+    img {
+        display: none
+    }
+
+    ;
+}
